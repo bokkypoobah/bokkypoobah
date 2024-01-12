@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [StealthChad](https://github.com/bokkypoobah/StealthChad)
+- 🔭 I’m currently working on [StealthChad](https://github.com/bokkypoobah/StealthChad). You can test it out by pointing your web3 browser to [https://bokkypoobah.github.io/StealthChad/](https://bokkypoobah.github.io/StealthChad/) and connecting to the Sepolia testnet.
 
 <!--
 **bokkypoobah/bokkypoobah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

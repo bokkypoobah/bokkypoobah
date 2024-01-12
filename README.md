@@ -6,14 +6,10 @@
 * Fully on-chain orderbook ERC-20/ERC-20 DEX using Red-Black Trees and Queues - [chadex](https://github.com/bokkypoobah/chadex)
 * Vanilla and bounded collateralised options on ERC-20 tokens - [https://github.com/ogDAO/Optino](https://github.com/ogDAO/Optino)
 
-<br />
-
 #### Libraries
 
 * A gas-efficient Solidity date and time library - [BokkyPooBahsDateTimeLibrary](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary)
 * A gas-efficient Solidity library implementing the Red-Black binary search tree algorithm - [BokkyPooBahsRedBlackTreeLibrary](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary). See [BokkyPooBahsRedBlackTreeLibrary.sol @ chadex](https://github.com/bokkypoobah/chadex/blob/master/contracts/BokkyPooBahsRedBlackTreeLibrary.sol) for some sample usage
-
-<br />
 
 #### Tools
 

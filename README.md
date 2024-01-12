@@ -21,6 +21,9 @@
 
 * Lightweight tool to manage your ERC-20, ERC-721 and ERC-1155 token approvals - [ApprovalTool](https://github.com/bokkypoobah/ApprovalTool). Web3 UI @ [https://bokkypoobah.github.io/ApprovalTool/](https://bokkypoobah.github.io/ApprovalTool/)
 * ENS search and management tool - [aenus](https://github.com/bokkypoobah/aenus). Web3 UI @ [https://bokkypoobah.github.io/aenus/](https://bokkypoobah.github.io/aenus/)
+* Ponderware MoonCats explainer - [MoonCatExplainer](https://github.com/bokkypoobah/MoonCatExplainer). Web3 UI @ [https://bokkypoobah.github.io/MoonCatExplainer/](https://bokkypoobah.github.io/MoonCatExplainer/)
+* Exploring CryptoPunks On-Chain - [ExploringCryptoPunksOnChain](https://github.com/bokkypoobah/ExploringCryptoPunksOnChain). Web3 UI @ [https://bokkypoobah.github.io/ExploringCryptoPunksOnChain/](https://bokkypoobah.github.io/ExploringCryptoPunksOnChain/)
+* Weenus ERC-20 Token Faucet - [WeenusTokenFaucet](https://github.com/bokkypoobah/WeenusTokenFaucet)
 
 <br />
 <!--

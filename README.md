@@ -2,7 +2,7 @@
 
 #### Work In Progress
 
-* [StealthChad](https://github.com/bokkypoobah/StealthChad). Web3 UI @ [https://bokkypoobah.github.io/StealthChad/](https://bokkypoobah.github.io/StealthChad/) on Sepolia testnet.
+* An implementation of [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564) and [ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538) - [StealthChad](https://github.com/bokkypoobah/StealthChad). Web3 UI @ [https://bokkypoobah.github.io/StealthChad/](https://bokkypoobah.github.io/StealthChad/) on Sepolia testnet.
 
 <br />
 

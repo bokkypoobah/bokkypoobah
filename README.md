@@ -9,7 +9,7 @@
 #### Libraries
 
 * A gas-efficient Solidity date and time library, [~700 instances on Mainnet @ Jan 13 2024](https://etherscan.io/searchcontractlist?q=_daysToDate&a=all&sort=newest) - [BokkyPooBahsDateTimeLibrary](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary)
-* A gas-efficient Solidity library implementing the Red-Black binary search tree algorithm - [BokkyPooBahsRedBlackTreeLibrary](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary). See [BokkyPooBahsRedBlackTreeLibrary.sol @ chadex](https://github.com/bokkypoobah/chadex/blob/master/contracts/BokkyPooBahsRedBlackTreeLibrary.sol) for some sample usage
+* A gas-efficient Solidity Red-Black binary search tree library, [~70 instances on Mainnet @ Jan 13 2024](https://etherscan.io/searchcontractlist?q=insertFixup&a=all&sort=newest) - [BokkyPooBahsRedBlackTreeLibrary](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary). See [BokkyPooBahsRedBlackTreeLibrary.sol @ chadex](https://github.com/bokkypoobah/chadex/blob/master/contracts/BokkyPooBahsRedBlackTreeLibrary.sol) for some sample usage
 
 #### Tools & Things
 

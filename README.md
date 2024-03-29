@@ -13,6 +13,7 @@
 
 #### Tools & Things
 
+* Larva Chad Images - [chadmode](https://github.com/bokkypoobah/chadmode)
 * CC0 Chungo Images - [ChungoIntelligenceAgency](https://github.com/bokkypoobah/ChungoIntelligenceAgency)
 * Lightweight tool to manage your ERC-20, ERC-721 and ERC-1155 token approvals - [ApprovalTool](https://github.com/bokkypoobah/ApprovalTool). Web3 UI @ [https://bokkypoobah.github.io/ApprovalTool/](https://bokkypoobah.github.io/ApprovalTool/)
 * ENS search and management tool - [aenus](https://github.com/bokkypoobah/aenus). Web3 UI @ [https://bokkypoobah.github.io/aenus/](https://bokkypoobah.github.io/aenus/)

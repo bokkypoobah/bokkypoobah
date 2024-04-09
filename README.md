@@ -13,7 +13,7 @@
 
 #### Tools & Things
 
-* [Read-Only Offline Shamir39 Device Recipe](https://github.com/bokkypoobah/ReadOnlyOfflineShamir39DeviceRecipe) New @ Apr 9 2024
+* [Read-Only Offline Shamir39 Device Recipe](https://github.com/bokkypoobah/ReadOnlyOfflineShamir39DeviceRecipe) ⭐ New @ Apr 9 2024 ⭐
 * Larva Chad Images - [chadmode](https://github.com/bokkypoobah/chadmode)
 * CC0 Chungo Images - [ChungoIntelligenceAgency](https://github.com/bokkypoobah/ChungoIntelligenceAgency)
 * Lightweight tool to manage your ERC-20, ERC-721 and ERC-1155 token approvals - [ApprovalTool](https://github.com/bokkypoobah/ApprovalTool). Web3 UI @ [https://bokkypoobah.github.io/ApprovalTool/](https://bokkypoobah.github.io/ApprovalTool/)

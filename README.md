@@ -2,6 +2,7 @@
 
 #### Work In Progress
 
+* [Read-Only Offline Crypto Device Recipe](https://github.com/bokkypoobah/ReadOnlyOfflineCryptoDeviceRecipe) ⭐ WIP @ Apr 13 2024 ⭐
 * An implementation of [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564) and [ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538) - [MagicalInternetMoney](https://github.com/bokkypoobah/MagicalInternetMoney). Web3 UI @ [https://bokkypoobah.github.io/MagicalInternetMoney/](https://bokkypoobah.github.io/MagicalInternetMoney/) on Sepolia testnet.
 * Fully on-chain orderbook ERC-20/ERC-20 DEX using Red-Black Trees and Queues - [chadex](https://github.com/bokkypoobah/chadex)
 * Vanilla and bounded collateralised options on ERC-20 tokens - [https://github.com/ogDAO/Optino](https://github.com/ogDAO/Optino)
@@ -14,7 +15,6 @@
 #### Tools & Things
 
 * Weenus ERC-20 Token Faucets - [WeenusTokenFaucet](https://github.com/bokkypoobah/WeenusTokenFaucet) ⭐ Updated @ Apr 13 2024 - Arbitrum, Base, Optimism and Linea ⭐
-* [Read-Only Offline Shamir39 Device Recipe](https://github.com/bokkypoobah/ReadOnlyOfflineShamir39DeviceRecipe) ⭐ New @ Apr 9 2024 ⭐
 * Larva Chad Images - [chadmode](https://github.com/bokkypoobah/chadmode)
 * CC0 Chungo Images - [ChungoIntelligenceAgency](https://github.com/bokkypoobah/ChungoIntelligenceAgency)
 * Lightweight tool to manage your ERC-20, ERC-721 and ERC-1155 token approvals - [ApprovalTool](https://github.com/bokkypoobah/ApprovalTool). Web3 UI @ [https://bokkypoobah.github.io/ApprovalTool/](https://bokkypoobah.github.io/ApprovalTool/)

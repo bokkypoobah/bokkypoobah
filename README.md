@@ -2,7 +2,7 @@
 
 #### Work In Progress
 
-* [Read-Only Offline Crypto Device Recipe](https://github.com/bokkypoobah/ReadOnlyOfflineCryptoDeviceRecipe) ⭐ WIP @ Apr 13 2024 ⭐
+* Recipe to create a Read-Only Offline [TopSecrets](https://github.com/bokkypoobah/TopSecrets) device - ⭐ WIP @ Apr 15 2024 ⭐
 * An implementation of [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564) and [ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538) - [MagicalInternetMoney](https://github.com/bokkypoobah/MagicalInternetMoney). Web3 UI @ [https://bokkypoobah.github.io/MagicalInternetMoney/](https://bokkypoobah.github.io/MagicalInternetMoney/) on Sepolia testnet.
 * Fully on-chain orderbook ERC-20/ERC-20 DEX using Red-Black Trees and Queues - [chadex](https://github.com/bokkypoobah/chadex)
 * Vanilla and bounded collateralised options on ERC-20 tokens - [https://github.com/ogDAO/Optino](https://github.com/ogDAO/Optino)

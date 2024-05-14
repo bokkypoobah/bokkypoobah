@@ -2,7 +2,8 @@
 
 #### Work In Progress
 
-* Read-only offline [TopSecrets](https://github.com/bokkypoobah/TopSecrets) device - ⭐ WIP @ Apr 16 2024 ⭐
+* [VictoriasSecrets](https://github.com/bokkypoobah/VictoriasSecrets) - Royalty-Class Online and Offline Wallet - ⭐ WIP @ May 14 2024 ⭐
+* Read-only offline [TopSecrets](https://github.com/bokkypoobah/TopSecrets) device recipe - ⭐ WIP @ May 14 2024 ⭐
 * An implementation of [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564) and [ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538) - [MagicalInternetMoney](https://github.com/bokkypoobah/MagicalInternetMoney). Web3 UI @ [https://bokkypoobah.github.io/MagicalInternetMoney/](https://bokkypoobah.github.io/MagicalInternetMoney/) on Sepolia testnet.
 * Fully on-chain orderbook ERC-20/ERC-20 DEX using Red-Black Trees and Queues - [chadex](https://github.com/bokkypoobah/chadex)
 * Vanilla and bounded collateralised options on ERC-20 tokens - [https://github.com/ogDAO/Optino](https://github.com/ogDAO/Optino)

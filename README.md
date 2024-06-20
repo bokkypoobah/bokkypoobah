@@ -4,7 +4,7 @@
 
 #### Work In Progress
 
-* [The Manager](https://github.com/bokkypoobah/TheManager) - ENS Portfolio Manager - ⭐ WIP @ Jun 15 2024 ⭐
+* [The Manager](https://github.com/bokkypoobah/onlyfens) - Portfolio Manager - only for ENS - ⭐ WIP @ Jun 20 2024 ⭐
 * [Victoria's Secrets](https://github.com/bokkypoobah/VictoriasSecrets) - Royalty Class Online/Offline Wallet For EVM Chains - ⭐ WIP @ May 14 2024 ⭐
 * Read-only offline [TopSecrets](https://github.com/bokkypoobah/TopSecrets) device recipe - ⭐ WIP @ May 14 2024 ⭐
 * An implementation of [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564) and [ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538) - [MagicalInternetMoney](https://github.com/bokkypoobah/MagicalInternetMoney). Web3 UI @ [https://bokkypoobah.github.io/MagicalInternetMoney/](https://bokkypoobah.github.io/MagicalInternetMoney/) on Sepolia testnet.

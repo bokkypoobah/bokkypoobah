@@ -30,6 +30,7 @@
 * Exploring CryptoPunks On-Chain - [ExploringCryptoPunksOnChain](https://github.com/bokkypoobah/ExploringCryptoPunksOnChain). Web3 UI @ [https://bokkypoobah.github.io/ExploringCryptoPunksOnChain/](https://bokkypoobah.github.io/ExploringCryptoPunksOnChain/)
 * CryptoCats Info - [CryptoCatsInfo](https://github.com/bokkypoobah/CryptoCatsInfo) - Web3 UI @ [https://bokkypoobah.github.io/CryptoCatsInfo/](https://bokkypoobah.github.io/CryptoCatsInfo/)
 * Exploring layered on-chain generated ProofOfPepes Info - [ProofOfPepesInfo](https://github.com/bokkypoobah/ProofOfPepesInfo) - Web3 UI @ [https://bokkypoobah.github.io/ProofOfPepesInfo/](https://bokkypoobah.github.io/ProofOfPepesInfo/)
+* Explore the CryptoDickButtsOnChain contract with [CryptoDickButtsOnChain](https://github.com/bokkypoobah/CryptoDickButtsOnChain)
 
 #### Earlier Works
 

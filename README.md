@@ -40,7 +40,7 @@
 
 <br />
 
-![](https://raw.githubusercontent.com/bokkypoobah/ChungoIntelligenceAgency/main/MakeChungo/unitedwechungodividedwechungo.png)
+![](https://raw.githubusercontent.com/bokkypoobah/ChungoIntelligenceAgency/main/watafuck/privacyisnotacrime.png)
 
 <!--
 **bokkypoobah/bokkypoobah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

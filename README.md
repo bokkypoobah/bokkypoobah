@@ -5,6 +5,7 @@
 #### Work In Progress
 
 * [MagicalInternetMoney](https://github.com/bokkypoobah/MagicalInternetMoney) - EVM chain crypto asset manager, with support for [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564) and ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538). Web3 UI @ [https://bokkypoobah.github.io/MagicalInternetMoney/](https://bokkypoobah.github.io/MagicalInternetMoney/) on Sepolia testnet - ⭐ WIP @ Jul 27 2024 ⭐
+* [txs](https://github.com/bokkypoobah/txs) - Ethereum Transaction Reporter - ⭐ WIP @ Aug 8 2024 ⭐
 * [Victoria's Secrets](https://github.com/bokkypoobah/VictoriasSecrets) - Royalty Class Online/Offline Wallet For EVM Chains - ⭐ WIP @ May 14 2024 ⭐
 * Read-only offline [TopSecrets](https://github.com/bokkypoobah/TopSecrets) device recipe - ⭐ WIP @ May 14 2024 ⭐
 * Fully on-chain orderbook ERC-20/ERC-20 DEX using Red-Black Trees and Queues - [chadex](https://github.com/bokkypoobah/chadex)

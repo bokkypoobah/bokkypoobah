@@ -4,6 +4,7 @@
 
 #### Work In Progress
 
+* [TokenExplorer](https://github.com/bokkypoobah/TokenExplorer/) - ERC-20, ERC-721 and ERC-1155 token explorer  - ⭐ WIP @ Aug 17 2024 ⭐
 * [GetStartedWithDevelopingInEthereum](https://github.com/bokkypoobah/GetStartedWithDevelopingInEthereum/) - Getting Started With Ethereum, with an interactive ERC-20, ERC-721 and ERC-1155 token contract explorer dapp - ⭐ WIP @ Aug 14 2024 ⭐
 * [MagicalInternetMoney](https://github.com/bokkypoobah/MagicalInternetMoney) - EVM chain crypto asset manager, with support for [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564) and ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538). Web3 UI @ [https://bokkypoobah.github.io/MagicalInternetMoney/](https://bokkypoobah.github.io/MagicalInternetMoney/) on Sepolia testnet - ⭐ WIP @ Jul 27 2024 ⭐
 * [txs](https://github.com/bokkypoobah/txs) - Ethereum Transaction Reporter - ⭐ WIP @ Aug 8 2024 ⭐

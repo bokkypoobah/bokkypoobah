@@ -4,7 +4,8 @@
 
 #### Work In Progress
 
-* [TokenAgent](https://github.com/bokkypoobah/TokenAgent/) - Personal agent for peer-to-peer ERC-20/721/1155 token exchange - ⭐ WIP @ Sep 5 2024 ⭐
+* [Demodex](https://github.com/bokkypoobah/Demodex/) - Decentralised ERC-20/721/1155 token exchange - ⭐ WIP @ Sep 26 2024 ⭐
+* [TokenAgent](https://github.com/bokkypoobah/TokenAgent/) - Personal agent for peer-to-peer ERC-20/721/1155 token exchange - ⭐ Moved to Demodex project above @ Sep 26 2024 ⭐
 * [TokenExplorer](https://github.com/bokkypoobah/TokenExplorer/) - ERC-20, ERC-721 and ERC-1155 token explorer. Web3 UI @ https://bokkypoobah.github.io/TokenExplorer/  - ⭐ WIP @ Aug 17 2024 ⭐
 * [GetStartedWithDevelopingInEthereum](https://github.com/bokkypoobah/GetStartedWithDevelopingInEthereum/) - Getting Started With Ethereum, with an interactive ERC-20, ERC-721 and ERC-1155 token contract explorer dapp - ⭐ WIP @ Aug 14 2024 ⭐
 * [MagicalInternetMoney](https://github.com/bokkypoobah/MagicalInternetMoney) - EVM chain crypto asset manager, with support for [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564) and ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538). Web3 UI @ [https://bokkypoobah.github.io/MagicalInternetMoney/](https://bokkypoobah.github.io/MagicalInternetMoney/) on Sepolia testnet - ⭐ WIP @ Jul 27 2024 ⭐

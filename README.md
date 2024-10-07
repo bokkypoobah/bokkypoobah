@@ -4,6 +4,7 @@
 
 #### Work In Progress
 
+* Fully on-chain orderbook ERC-20/ERC-20 DEX using Red-Black Trees and Queues - [chadex](https://github.com/bokkypoobah/chadex) - ⭐ WIP @ Oct 8 2024 ⭐
 * [Demodex](https://github.com/bokkypoobah/Demodex/) - Decentralised ERC-20/721/1155 token exchange - ⭐ WIP @ Sep 26 2024 ⭐
 * [TokenAgent](https://github.com/bokkypoobah/TokenAgent/) - Personal agent for peer-to-peer ERC-20/721/1155 token exchange - ⭐ Moved to Demodex project above @ Sep 26 2024 ⭐
 * [TokenExplorer](https://github.com/bokkypoobah/TokenExplorer/) - ERC-20, ERC-721 and ERC-1155 token explorer. Web3 UI @ https://bokkypoobah.github.io/TokenExplorer/  - ⭐ WIP @ Aug 17 2024 ⭐
@@ -12,7 +13,6 @@
 * [txs](https://github.com/bokkypoobah/txs) - Ethereum Transaction Reporter - ⭐ WIP @ Aug 8 2024 ⭐
 * [Victoria's Secrets](https://github.com/bokkypoobah/VictoriasSecrets) - Royalty Class Online/Offline Wallet For EVM Chains - ⭐ WIP @ May 14 2024 ⭐
 * Read-only offline [TopSecrets](https://github.com/bokkypoobah/TopSecrets) device recipe - ⭐ WIP @ May 14 2024 ⭐
-* Fully on-chain orderbook ERC-20/ERC-20 DEX using Red-Black Trees and Queues - [chadex](https://github.com/bokkypoobah/chadex)
 * Vanilla and bounded collateralised options on ERC-20 tokens - [https://github.com/ogDAO/Optino](https://github.com/ogDAO/Optino)
 
 #### Libraries

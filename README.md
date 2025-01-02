@@ -4,6 +4,7 @@
 
 #### Work In Progress
 
+* Burner.pro NFC card review and tools being built - [BurnerProTool](https://github.com/bokkypoobah/BurnerProTool) - ⭐ WIP @ Jan 2 2025 ⭐
 * Testing X/Twitter Grok AI's image generation, just made available to non-premium users - [TheSausages](https://github.com/bokkypoobah/TheSausages) - ⭐ WIP @ Dec 18 2024 ⭐
 * Fully on-chain orderbook ERC-20/ERC-20 DEX using Red-Black Trees and Queues - [chadex](https://github.com/bokkypoobah/chadex) - ⭐ WIP @ Oct 8 2024 ⭐
 * [Demodex](https://github.com/bokkypoobah/Demodex/) - Decentralised ERC-20/721/1155 token exchange - ⭐ WIP @ Sep 26 2024 ⭐

@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/bokkypoobah/ChungoIntelligenceAgency/main/PornadoCash/freealexeypertsev.png)
-
 ### gm gm!
 
 #### Work In Progress

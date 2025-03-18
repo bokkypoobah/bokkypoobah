@@ -2,6 +2,7 @@
 
 #### Work In Progress
 
+* [Explorer](https://github.com/bokkypoobah/Explorer) - ⭐ WIP @ Mar 18 2025 ⭐
 * [Gnosis Safe Explorer](https://github.com/bokkypoobah/GnosisSafeExplorer) - ⭐ WIP @ Mar 11 2025 ⭐
 * Burner.pro NFC card review and tools being built - [BurnerProTool](https://github.com/bokkypoobah/BurnerProTool) - ⭐ WIP @ Jan 2 2025 ⭐
 * Testing X/Twitter Grok AI's image generation, just made available to non-premium users - [TheSausages](https://github.com/bokkypoobah/TheSausages) - ⭐ WIP @ Dec 18 2024 ⭐

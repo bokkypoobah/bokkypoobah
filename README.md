@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/bokkypoobah/ChungoIntelligenceAgency/main/MakeChungo/loveandpeace.png)
+
 ### gm gm!
 
 #### Work In Progress

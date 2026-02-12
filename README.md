@@ -2,6 +2,8 @@
 
 ### gm gm!
 
+Check out https://github.com/bokkypoobah/TheBokkyBible, a co-creation between BokkyPooBah and Grok AI - ⭐ New @ Feb 12 2026 ⭐
+
 #### Work In Progress
 
 * [Explorer](https://github.com/bokkypoobah/Explorer) - ⭐ WIP @ Mar 18 2025 ⭐

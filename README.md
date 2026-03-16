@@ -2,7 +2,7 @@
 
 ### gm gm!
 
-Check out https://github.com/bokkypoobah/TheBokkyBible, a co-creation between BokkyPooBah and Grok AI - ⭐ New @ Feb 12 2026 ⭐
+Check out [TheBokkyBible](https://github.com/bokkypoobah/TheBokkyBible), a co-creation between BokkyPooBah and Grok AI - ⭐ New @ Feb 12 2026 ⭐
 
 #### Work In Progress
 

@@ -6,6 +6,7 @@ Check out [TheBokkyBible](https://github.com/bokkypoobah/TheBokkyBible), a co-cr
 
 #### Work In Progress
 
+* [Have Chad Will Travel](https://github.com/bokkypoobah/HaveChadWillTravel) - ⭐ WIP @ Oct 12 2026 ⭐
 * [Explorer](https://github.com/bokkypoobah/Explorer) - ⭐ WIP @ Mar 18 2025 ⭐
 * [Gnosis Safe Explorer](https://github.com/bokkypoobah/GnosisSafeExplorer) - ⭐ WIP @ Mar 11 2025 ⭐
 * Burner.pro NFC card review and tools being built - [BurnerProTool](https://github.com/bokkypoobah/BurnerProTool) - ⭐ WIP @ Jan 2 2025 ⭐

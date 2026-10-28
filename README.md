@@ -6,6 +6,7 @@ Check out [TheBokkyBible](https://github.com/bokkypoobah/TheBokkyBible), a co-cr
 
 #### Work In Progress
 
+* [onlyfens2](https://github.com/bokkypoobah/onlyfens2) - Only for ENS v2 portfolio manager - ⭐ Oct 28 2026 ⭐
 * [Have Chad Will Travel](https://github.com/bokkypoobah/HaveChadWillTravel) - ⭐ WIP @ Oct 12 2026 ⭐
 * [Explorer](https://github.com/bokkypoobah/Explorer) - ⭐ WIP @ Mar 18 2025 ⭐
 * [Gnosis Safe Explorer](https://github.com/bokkypoobah/GnosisSafeExplorer) - ⭐ WIP @ Mar 11 2025 ⭐
